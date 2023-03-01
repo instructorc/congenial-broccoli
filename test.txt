@@ -1,5 +1,7 @@
 Bo Zhang
 James
 Bryant Van
-Alex
-Ric
+Alex 
+Ric Cordova
+
+End of list
